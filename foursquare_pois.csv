@@ -1,0 +1,451 @@
+restaurant_name,restaurant_latitude,restaurant_longitude,rating,price,category,tel,address,distance
+Serkan Hamza | Midye Balık Kokoreç,38.411718,27.03321,8.6,1.0,Seafood,0535 261 40 39,"Başak Sok No: 53, 35330 Balçova",183
+Carême Restaurant,38.411444,27.031949,8.5,,Dining and Drinking,0850 755 8888,"İnciraltı Cad No:67, 35330 Balçova",213
+Angel 35 Tekne Turu,38.411373,27.034349,8.0,3.0,Seafood,0555 396 99 51,"Müze Gemiler Yanı İnciraltı, İzmir",273
+Brasserie Restaurant,38.41174,27.031932,6.7,2.0,Breakfast,(0224) 800 08 00,"Akpýnar Cad, No: 17, Demirci",178
+Veli Usta Balık Pişiricisi,38.413158,27.030031,8.5,3.0,Seafood,(0232) 277 77 66,"İnciraltı Cad, 10 Sok, No: 179 / A, İnciraltı (İnciraltı), 35330 Balçova",386
+Metin Kokoreç&Sucuk,38.413911,27.028378,8.0,,Kokoreç Restaurant,0536 962 83 57,"İnciraltı Sahil, İzmir",371
+Gaziantepliler,38.409998,27.034289,8.1,,Kebab,(0232) 259 97 38,"İnciraltı Cad No:49, Balçova",400
+Barış Kokoreç,38.413985,27.028201,7.7,1.0,Food Truck,,,386
+Aslım Kokoreç,38.413687,27.028181,7.4,,Kokoreç Restaurant,,İzmir,370
+Özdilek Cafe & Restaurant,38.410476,27.031376,6.7,2.0,Café,,"İnciraltı Cad No: 67, Balçova",357
+Zaitun Seafood Restaurant,38.412842,27.015121,8.2,3.0,Seafood,,"Ulupınar Sok No18 Narlıdere (Gürler Caddesi), İzmir",216
+İsmail Baba Mangal Ve Köy Kahvaltısı,38.408629,27.014746,6.6,2.0,Breakfast,,İzmir,320
+Uğrak Mekân,38.411797,27.015894,,,Food Court,,"Gürler Cad Sarıkuş Sok Köşesi (gürler), 35320 İzmir",215
+Güzelbahçe,38.409146,27.011237,,2.0,Café,,"Dünya Da Bir Yer, 35000 İzmir",316
+Hanedan,38.408668,27.014586,,2.0,Café,,"Levent Cad Karatop Sok (Levent Caddesi), İzmir",317
+Mavera Cafe&Restorant,38.408587,27.014857,,2.0,Café,,"Levent Cad Karatop Sok No:3 (Sahilevleri), İzmir",333
+Casa De Costa,38.407873,27.007969,7.5,,Restaurant,0535 612 59 72,"Gürler Cad No: 208 Sahilevleri, Narlıdere",603
+Eyüp'ün Yeri,38.407851,27.012722,,3.0,Seafood,,İzmir,398
+Alev Ablanın Yeri,38.407944,27.009071,,2.0,Fast Food,,,541
+Pavarotti Sea & More,38.408013,27.002906,8.9,3.0,Seafood,0532 413 29 59,"Gurler Cad No: 122/A (gürler caddesi), 35320 İzmir",985
+Sahilevleri Barınak Cay Ocağı,38.406712,26.997051,8.8,2.0,Café,,Narlıdere,100
+Mey-Zade,38.406218,26.997384,7.8,,Meyhane,,"Gürler Cad No:46, Narlıdere",106
+'Dut Restaurant Cafe Bar,38.406242,26.9982,8.3,2.0,Café,(0232) 238 79 47,"Gürler Cad No: 54 Sahilevleri, 35320 İzmir",178
+Taka Balık Evi,38.406118,26.99735,7.8,2.0,Mediterranean,(0232) 239 24 17,"Gürler Cad, No: 50, 35320 Narlıdere",157
+By Özcan Köşem Balık Evi,38.405905,26.996977,6.4,,Dining and Drinking,,"Güler Caddesi, İzmir",70
+Sir Winston,38.406337,26.998561,7.4,2.0,Café,0533 034 15 13,"Gürler Cad No:56, Narlıdere",200
+Mavisu Balık Evi,38.406987,26.999503,8.6,3.0,Seafood,(0232) 238 27 77,"Gürler Cad, No:70, 35000 İzmir",309
+Rıhtım Restaurant,38.406012,26.997164,6.2,3.0,Seafood,,,93
+Poyraz Balık Evi,38.406835,26.999092,7.5,3.0,Seafood,0536 940 81 48,"Gurler Cad (Sahilevleri), Narlıdere",242
+Eftelya Balik,38.407048,26.999464,7.6,3.0,Seafood,,"Gurler Cad (Sahilevleri), İzmir",288
+İnciraltı Engelliler Kafeteryası,38.407269,27.066345,7.8,2.0,Café,(0232) 259 89 22,İzmir,396
+Sipari Restaurant,38.406202,27.06735,8.2,3.0,Seafood,(0232) 259 59 58,"Haydar Aliyev Bul Daire: 4, Levent Marina Tesisleri İnciraltı, Balçova, İzmir, 35140 İzmir",504
+Teras By Tuval,38.406258,27.0674,7.9,3.0,Mediterranean,0532 179 55 56,"Levent Marina, İzmir",497
+Nefes Restoran-Kafe-Bar,38.40592,27.067684,7.5,2.0,Café,,"Levent Marina, İzmir",516
+Tuzu Biberi,38.406334,27.067491,7.3,2.0,Breakfast,,"İzmir Marina (Haydar Aliyev Bulvarı), İzmir",494
+Sahil Evleri Gülhane Restaurant,38.409754,27.062512,,1.0,Fish and Chips Shop,,,341
+Spari Balık Restourant,38.405465,27.066028,,3.0,Seafood,,,389
+Boğaziçi Restaurant - Üçkuyular,38.405394,27.070807,8.9,3.0,Diner,(0232) 278 88 88,"Mustafa Kemal Sahil Bul Vapur İskelesi Üstü Üçkuyular, İzmir",805
+Damak Çatlatan Lezzetler,38.405488,27.068388,6.7,2.0,Turkish,,"Levent Marina Haydar Aliyev Bul No:4, İzmir",600
+Şerefe,38.406611,27.067346,,,Meyhane,,Ückuyular Marina,480
+Boğaziçi Restaurant - Üçkuyular,38.405394,27.070807,8.9,3.0,Diner,(0232) 278 88 88,"Mustafa Kemal Sahil Bul Vapur İskelesi Üstü Üçkuyular, İzmir",116
+Sipari Restaurant,38.406202,27.06735,8.2,3.0,Seafood,(0232) 259 59 58,"Haydar Aliyev Bul Daire: 4, Levent Marina Tesisleri İnciraltı, Balçova, İzmir, 35140 İzmir",283
+Nefes Restoran-Kafe-Bar,38.40592,27.067684,7.5,2.0,Café,,"Levent Marina, İzmir",254
+Teras By Tuval,38.406258,27.0674,7.9,3.0,Mediterranean,0532 179 55 56,"Levent Marina, İzmir",290
+Tuzu Biberi,38.406334,27.067491,7.3,2.0,Breakfast,,"İzmir Marina (Haydar Aliyev Bulvarı), İzmir",293
+İnciraltı Engelliler Kafeteryası,38.407269,27.066345,7.8,2.0,Café,(0232) 259 89 22,İzmir,447
+Eatery,38.39952,27.068038,8.5,,Restaurant,,"İstinye Park, Balçova",610
+Masa Restaurant,38.399388,27.067648,8.5,2.0,Café,(0232) 683 04 48,"İstinye Park (Şehit Binbaşı Ali Resmi Tufan Sok. No:3), 35330 Balçova",635
+Godiva,38.399388,27.067648,8.4,2.0,Café,,"İstinye Park (Şehit Binbaşı Ali Resmi Tufan Sok. No:3), 35330 Balçova",635
+Şerefe,38.406611,27.067346,,,Meyhane,,Ückuyular Marina,322
+Söğüşçü Mira,38.399244,27.079378,8.0,,Söğüş Place,(0232) 285 55 58,"Mithatpaşa Cad No:1073 (Mithatpaşa), 35280 Konak",197
+Coffeemania,38.399379,27.080053,7.6,2.0,Café,,"Mithatpaşa, 35330 İzmir",210
+Enginar Restaurant & Cafe,38.399105,27.080645,8.6,,Turkish Home Cooking,(0232) 404 55 55,"Mithatpaşa Cad No:1164, İzmir",279
+Café Violin,38.398048,27.077769,8.2,2.0,Café,(0232) 224 14 14,"18 Sok No: 8 A/B, İzmir",280
+Gel Tat,38.39868,27.076967,7.7,2.0,Café,,İzmir,247
+Caffe D'Amore,38.398361,27.077488,7.9,2.0,Café,,İzmir,262
+Bi Mekan Coffee & Bakery,38.398601,27.078349,7.5,2.0,Café,(0232) 224 40 20,"Mithatpaşa Cad No:1087 (Mithatpaşa), 35290 Konak",239
+Söğüşçü Aco Güzelyalı,38.398993,27.080547,8.1,1.0,Fast Food,(0232) 247 28 33,"Mithat Paşa Cad, No: 1045 / Daire: Güzelyalı (Mithatpaşa Cad.), Konak",299
+Hatay Unlu Mamuller Güzelyalı Şubesi,38.39891,27.081863,7.9,1.0,Bakery,,,382
+Göztepe Ekmek Fırını,38.398564,27.08267,8.4,1.0,Bakery,,İzmir,475
+Göztepe Ekmek Fırını,38.398564,27.08267,8.4,1.0,Bakery,,İzmir,125
+La Folie Güzelyalı,38.398179,27.08409,8.1,2.0,Restaurant,(0232) 224 08 31,"Mithatpaşa Cad No:1096/A Konak (Mithatpaşa Cd.), 35290 İzmir",116
+Lezzet Lokantası,38.397715,27.08396,8.4,,Dining and Drinking,(0232) 247 03 45,"40 Sok No: 1 / Cad, 35290 İzmir",154
+Ceyhan Lokantası,38.397715,27.08396,8.1,,Turkish,(0232) 246 24 77,"40 Sok, No: 3 / B Güzelyalı, 35290 Konak",167
+Hatay Unlu Mamuller Güzelyalı Şubesi,38.39891,27.081863,7.9,1.0,Bakery,,,175
+Enginar Restaurant & Cafe,38.399105,27.080645,8.6,,Turkish Home Cooking,(0232) 404 55 55,"Mithatpaşa Cad No:1164, İzmir",277
+Park Lokantası,38.396848,27.081806,8.9,,Turkish Home Cooking,(0232) 224 83 14,"30 Sok No: 1 / E, Güzelyalı, İzmir",286
+Söğüşçü Aco Güzelyalı,38.398993,27.080547,8.1,1.0,Fast Food,(0232) 247 28 33,"Mithat Paşa Cad, No: 1045 / Daire: Güzelyalı (Mithatpaşa Cad.), Konak",257
+The Irish Pub,38.39748,27.085371,7.7,,Irish,,"Mustafa Kemal Sahil Bulvarı, 35290 İzmir",237
+Sanita,38.397783,27.085687,7.5,2.0,Café,(0232) 224 48 48,"Mustafa Kemal Sahil Bul No:679, Konak",221
+Charleston Cake & More,38.402033,27.09499,9.1,2.0,Café,0530 445 39 92,"Mithatpaşa Cad No: 850/1 Göztepe - Konak, İzmir",178
+Enfes Seyler Cafe & Bistro,38.40229,27.095587,8.8,2.0,Café,(0232) 453 17 97,"Mithatpasa Cad No: 739/C Konak (Mithatpaşa Caddesi No:739/C), 35290 İzmir",215
+Tuzu Biberi Mangal,38.400663,27.092393,7.6,2.0,Turkish,(0232) 224 95 00,"Mithat Paşa Cad No: 888/A, Güzelyalı (Mustafa Kemal Sahil Bulvarı), İzmir",161
+Cafe Villa Fırat,38.40087,27.094707,8.3,2.0,Café,(0232) 232 89 09,İzmir,218
+Pizza Venedik Express,38.402508,27.095872,8.2,2.0,Pizza,(0232) 243 17 17,"Mithat Paşa Cad, No: 836 / A, Güzelyalı, 35290 İzmir",231
+Retro Cafe 29 May,38.402681,27.095932,8.1,2.0,Café,0555 852 50 05,"Mithatpaşa Cad 882/1-a Küçükyalı (Mithatpaşa), İzmir",265
+Göztepe Kokoreççisi,38.399584,27.091721,8.0,,Kokoreç Restaurant,(0232) 247 33 00,"Mithatpaşa Cad No:918, İzmir",296
+Gurme Peynircim,38.402978,27.096842,8.1,2.0,Deli,,"Mithatpasa Cad No:824 /A Sadikbey Goztepe, İzmir",338
+Muzom Restoran,38.399042,27.090965,8.5,,BBQ,(0232) 248 38 38,"Mithatpasa Cad No:956 Sahil Tarafi Goztepe Konak, 35290 İzmir",371
+Burger Attack,38.399036,27.09009,8.6,2.0,Burgers,(0232) 246 03 02,"Mithatpaşa Cad No: 974/A, 35290 Konak",431
+Orkinos Restaurant,38.405404,27.098609,8.3,3.0,Seafood,(0232) 244 46 06,İzmir,88
+No Ondört Coffee,38.403761,27.099385,8.5,2.0,Café,,"Ayşe Mayda Sok No:14, Konak",274
+Petunya Cafe,38.404444,27.100676,8.0,2.0,Café,0530 766 05 20,"129 Sok No: 12/A (Mithatpaşa Caddesi), 35000 Konak",256
+Bulut Fırın,38.403913,27.102455,9.1,1.0,Bakery,(0232) 243 18 10,"137 Sok No: 36, Konak",408
+Küçükyalı Gevrek Fırını,38.406886,27.103158,8.8,1.0,Bakery,(0232) 232 12 82,"Mithat Paşa Cad No:569 Küçükyalı, İzmir",409
+Gurme Peynircim,38.402978,27.096842,8.1,2.0,Deli,,"Mithatpasa Cad No:824 /A Sadikbey Goztepe, İzmir",391
+Café La Dose,38.407367,27.103952,9.0,2.0,Café,,İzmir,455
+Pizza Locale - Mustafa Kemal Sahil,38.407335,27.103751,8.8,2.0,Pizza,(0232) 232 10 00,"Mustafa Kemal Sahil BLV. No:351, 35280 İzmir",451
+Retro Cafe 29 May,38.402681,27.095932,8.1,2.0,Café,0555 852 50 05,"Mithatpaşa Cad 882/1-a Küçükyalı (Mithatpaşa), İzmir",469
+Pizza Venedik Express,38.402508,27.095872,8.2,2.0,Pizza,(0232) 243 17 17,"Mithat Paşa Cad, No: 836 / A, Güzelyalı, 35290 İzmir",481
+Tulumbalı Meyhane,38.40924,27.110555,7.9,,Meyhane,,"Mithatpaşa Cad No:540 Küçükyalı, İzmir",138
+Muzom Restoran,38.409245,27.110682,7.3,,Meyhane,(0232) 484 60 71,"Mustafa Kemal Sahil Bul No:255/6 Küçükyalı, İzmir",149
+Tulumbalı Meyhane Cümbüşşş,38.409503,27.113063,8.1,,Meyhane,,"Mithatpaşa Cad No:488/A, İzmir",349
+Aran Pide Salonu,38.407266,27.105532,8.5,2.0,Pide,(0232) 244 36 75,"Mithat Paşa Cad No:517/B Küçükyalı (Mithatpasa Caddesi), 35280 Konak",379
+İlk Adresim Restaurant,38.409475,27.113501,7.7,,Meyhane,0507 772 35 00,Konak,384
+Café La Dose,38.407367,27.103952,9.0,2.0,Café,,İzmir,485
+Pizza Locale - Mustafa Kemal Sahil,38.407335,27.103751,8.8,2.0,Pizza,(0232) 232 10 00,"Mustafa Kemal Sahil BLV. No:351, 35280 İzmir",490
+Çaykolik,38.409227,27.111336,,2.0,Breakfast,,"Mitatpaşa, 35000 İzmir",205
+Küçükyalı Gevrek Fırını,38.406886,27.103158,8.8,1.0,Bakery,(0232) 232 12 82,"Mithat Paşa Cad No:569 Küçükyalı, İzmir",542
+Çay Kolik,38.409486,27.111472,,2.0,Café,,İzmir,221
+Sembol Pide & Kebap,38.411649,27.121998,7.5,,Pide,(0232) 482 03 15,"Mithatpaşa Cad No:61/A Karataş Göztepe, İzmir",148
+Meşhur Acarlar Unlu Mamülleri Gıda,38.410146,27.12058,7.7,1.0,Bakery,(0232) 483 97 99,"Mithatpaşa Cad, No:133 Karataş, 35260 Konak",185
+Karataş Ekmek Ve Unlu Mamülleri,38.409855,27.119582,7.9,1.0,Bakery,(0232) 446 76 89,"Mithat Paşa Cad No: 165/A, Konak Merkez, İzmir",214
+Eye Opia,38.409433,27.120624,8.0,2.0,Café,0539 214 76 07,"Karataş 305 Sok No:37/A Barbaros Sok (Mithatpaşa Cad.), İzmir",253
+Asansir Cafe & Souvenir,38.40928,27.117499,8.3,2.0,Café,0555 560 27 92,"Mithatpaşa Cad Dario Moreno Sok No: 1 Karataş, İzmir",344
+Frida Cafe,38.409296,27.117236,8.4,2.0,Café,0545 342 09 75,"Turgut Reis, Dario Moreno Sok No:1 (Şht. Nihat Bey Cad.), 35000 Konak",350
+Taş Ev,38.409112,27.117351,8.2,2.0,Café,,"Dario Moreno Sok, Konak",370
+Asansör Teras Cafe & Bar,38.408619,27.117471,8.2,2.0,Café,(0232) 293 47 77,"Şehit Nihat Bey Cad (Karataş), 35280 Konak",408
+Cevatın Yeri Sahne Cafe,38.414801,27.12348,7.8,2.0,Café,,İzmir,471
+Ergök Döner,38.405558,27.121261,9.0,,Doner,(0232) 255 39 20,"İnönü Cad, No: 160 / B Hatay, Karabağlar",633
+Osmanlı,38.418724,27.125827,7.5,2.0,Café,,"Mustafa Kemal Sahil Bul, İzmir",43
+Kaffa Keyf,38.418746,27.125476,7.2,2.0,Café,(0232) 445 50 45,"Konak Vapur İskelesi Üstü, Konak",93
+Rıhtım Cafe,38.418718,27.125915,6.4,2.0,Café,,"Konak Vapur İskelesi Yanı, Konak",32
+Alsancak Unlu Mamuller,38.41876,27.126046,6.0,1.0,Bakery,,"Konak Vapur İskelesi, Konak",34
+Çaykovski,38.417869,27.129058,8.4,1.0,Café,(0232) 483 01 34,"31. Sokak, Konak",262
+Cimbomlu Meşhur Söğüşçü,38.419221,27.131919,8.7,1.0,Fast Food,(0232) 445 64 82,"855 Sok, No: 13 / A, 35250 Konak",454
+Konak Subay Orduevi Kahve'Nin Âlâsı,38.415298,27.124938,7.4,2.0,Café,,Konak,396
+Tarihi Kemeraltı Börekçisi,38.418298,27.131823,8.2,1.0,Bakery,,Konak,471
+Komposto Turk Mutfagi,38.420914,27.132207,9.1,1.0,Turkish Home Cooking,(0232) 483 21 83,"861 Sok No: 46 Kemeralti, 35250 Konak",548
+L’Aura Kitchen & Bar,38.423406,27.127362,8.2,3.0,Italian,0530 391 35 35,"Ataturk Cad No:19 Konak Pier Avm (Atatürk Caddesi No:19/S), 35210 İzmir",523
+Çaykovski,38.417869,27.129058,8.4,1.0,Café,(0232) 483 01 34,"31. Sokak, Konak",197
+Konak Subay Orduevi Kahve'Nin Âlâsı,38.415298,27.124938,7.4,2.0,Café,,Konak,254
+Osmanlı,38.418724,27.125827,7.5,2.0,Café,,"Mustafa Kemal Sahil Bul, İzmir",270
+Kaffa Keyf,38.418746,27.125476,7.2,2.0,Café,(0232) 445 50 45,"Konak Vapur İskelesi Üstü, Konak",305
+Cevatın Yeri Sahne Cafe,38.414801,27.12348,7.8,2.0,Café,,İzmir,388
+Tarihi Kemeraltı Börekçisi,38.418298,27.131823,8.2,1.0,Bakery,,Konak,420
+Cimbomlu Meşhur Söğüşçü,38.419221,27.131919,8.7,1.0,Fast Food,(0232) 445 64 82,"855 Sok, No: 13 / A, 35250 Konak",464
+Boyoz Cafe,38.41349,27.126529,7.2,2.0,Café,,"Konak, İzmir",350
+Rıhtım Cafe,38.418718,27.125915,6.4,2.0,Café,,"Konak Vapur İskelesi Yanı, Konak",280
+Gümüş Salon,38.41536,27.124899,6.1,2.0,Breakfast,,,263
+Sakiz Restaurant,38.428781,27.136552,8.4,3.0,Seafood,(0232) 464 11 03,"Ataturk Cad No: 158/A Konak, 35220 Konak",90
+Gümüş Balık Restaurant,38.426273,27.132392,8.4,3.0,Seafood,(0232) 483 37 47,"Kazım Dirik Cad, No: 1 / A, Pasaport (1.Kordon), İzmir",141
+Çınaraltı Meyhanesi,38.42563,27.134143,9.2,2.0,Turkish,(0232) 425 47 93,"Vali Kazım Dirik Cad No:22 A, İzmir",240
+Hisar Balık Pişiricisi,38.425854,27.13434,8.7,3.0,Seafood,(0232) 489 25 25,"Vali Kazım Dirik Cad, No: 18 / A, 35210 Konak",241
+Scappi,38.427954,27.135637,8.8,3.0,American,0530 609 13 19,"Gaziosmanpasa Bul No:1, 35210 İzmir",261
+Cafe Swiss,38.427898,27.135588,8.9,2.0,Café,(0232) 414 00 00,"Gazi Osman Paşa Bul Swissotel Grand Efes İzmir No: 1, Pasaport, Konak, İzmir, 35110 İzmir",288
+Skyfire Restaurant & Bar,38.426652,27.135694,8.5,,Modern European,(0232) 497 77 77,"Gazi Osman Paşa BLV. No:16 (G.O.P  Bulvari), İzmir",273
+Midpoint Alsancak,38.428502,27.136306,8.7,2.0,Dining and Drinking,(0232) 402 00 25,"Şehit Nevres Bul Swiss Hotel No: 2/A, Alsancak, İzmir",319
+Kordonboyubalik.,38.429904,27.134669,8.4,3.0,Seafood,,"Atatürk Cad No:174/B Alsancak Konak, 35220 İzmir",330
+Fish & Steak House,38.42996,27.134719,8.4,3.0,Seafood,(0232) 463 10 20,"Atatürk Cad, No: 174 Daire: 1, Alsancak, 35220 Konak",341
+Kordonboyubalik.,38.429904,27.134669,8.4,3.0,Seafood,,"Atatürk Cad No:174/B Alsancak Konak, 35220 İzmir",37
+Fish & Steak House,38.42996,27.134719,8.4,3.0,Seafood,(0232) 463 10 20,"Atatürk Cad, No: 174 Daire: 1, Alsancak, 35220 Konak",42
+Zaferin Yeri Restaurant,38.430625,27.135398,9.4,3.0,Seafood,0533 199 26 80,"Kultur, Ataturk Cad No: 184 / B, 35220 İzmir",117
+Körfez Ali Restorant İşletmeciliği,38.430625,27.135398,8.4,3.0,Seafood,(0232) 421 01 90,"Atatürk Cad No:182, A Alsancak, Konak",97
+Balıkçı Hasan,38.43096,27.135694,8.6,3.0,Seafood,(0232) 464 13 54,"Atatürk Cad, No: 186, Kordon (1.Kordon), 35100 Konak",128
+Deniz Restaurant,38.43129,27.136077,8.7,3.0,Diner,(0232) 464 44 99,"Atatürk Cad No: 188, 35220 Konak",183
+Lokanta Mahalle,38.429904,27.136523,8.8,,Turkish Home Cooking,(0232) 502 26 46,"Mustafa Münir Birsel Sok No:8/A, Konak",198
+Midpoint Alsancak,38.428502,27.136306,8.7,2.0,Dining and Drinking,(0232) 402 00 25,"Şehit Nevres Bul Swiss Hotel No: 2/A, Alsancak, İzmir",240
+Scappi,38.427954,27.135637,8.8,3.0,American,0530 609 13 19,"Gaziosmanpasa Bul No:1, 35210 İzmir",253
+Teras,38.43167,27.136598,8.5,,Dining and Drinking,,"Atatürk Cad No:190 Alsancak, İzmir",253
+Birinci Kordon Balık Restoran,38.433692,27.138197,8.6,3.0,Seafood,(0232) 422 40 01,"Atatürk Cad No: 196/A, 35220 İzmir",24
+Yemek Salonu - Kordon Orduevi,38.432793,27.137496,8.8,2.0,Breakfast,,,134
+İdil Mantı Evi,38.433285,27.138115,7.7,,Manti,(0232) 422 25 23,"No 1/B Doktor Mustafa Enver Bey Cad (Mustafa Enver Bey Cad), İzmir",91
+Beş Kardeşler Büfe,38.439268,27.144229,8.7,2.0,Sandwich Spot,(0232) 421 51 59,"1382 Sok No:4/C, 35220 Konak",197
+Pier’S,38.43253,27.139767,8.7,,Restaurant,,"Dr. Mustafa Enver Bey Cad, İzmir",209
+Ristorante Pizzeria Venedik,38.431966,27.138435,8.8,3.0,Pizza,(0232) 422 18 26,"1382 Sok, No: 10 / A, Alsancak, 35110 İzmir",216
+Tepeleme Söğüş,38.432016,27.137645,8.3,2.0,Turkish,,"Cumhuriyet Bul No:163, İzmir",210
+Favino Alsancak,38.432765,27.140715,9.0,,Theme Restaurant,(0232) 421 93 90,"Dr. Mustafa Enver Bey Cad No:11/A, 35220 İzmir",259
+Murano’S,38.432156,27.139158,8.5,3.0,Italian,,İzmir,244
+Ayvalık Balıkçısı Kerem,38.432428,27.136793,7.9,3.0,Seafood,(0232) 404 35 10,"Atatürk Cad No:192/B (Atatürk Caddesi), İzmir",213
+Yengeç Restaurant,38.438078,27.141603,8.8,3.0,Seafood,(0232) 464 57 57,"Ataturk Cad No: 314/A 1 Kordon Alsancak, Alsancak Vapur Iskelesi Karsisi (1.Kordon), İzmir",25
+Moresi Eskiköy,38.439631,27.142232,8.6,2.0,Breakfast,(0232) 463 26 46,"Atatürk Cad No:344/1 Kordon, İzmir",145
+Giritli Kâmuran,38.439804,27.142292,8.9,2.0,Café,(0232) 369 20 01,"Atatürk Cad No: 354/A Konak (alsancak), 35100 İzmir",169
+Ateş Ocakbaşı,38.436994,27.141944,8.8,2.0,Turkish,(0232) 422 10 80,"Can Yucel Sok No: 3/A Konak, 35220 İzmir",184
+Iskele Meyhanesi,38.439514,27.142221,7.5,,Bar,0553 215 60 10,"Ataturk Cad No: 340/A Alsancak - Kordon, İzmir",122
+Teyzem Börek,38.438357,27.143703,8.8,1.0,Bakery,(0232) 290 80 40,"Kıbrıs Şehitleri Cad No:98/A, Konak",198
+Alsancak Dostlar Fırını - Boyoz,38.439055,27.143856,9.3,1.0,Bakery,(0232) 421 92 02,"Kıbrıs Şehitleri Cad No: 120 Alsancak, 35210 İzmir",222
+"Meşhur Tavacı Recep Usta, Alsancak",38.440665,27.142681,8.8,3.0,Pide,(0232) 463 87 97,"Atatürk Cad, No: 364, Alsancak, Konak",253
+Alsancak Tostçu,38.439995,27.142774,7.7,2.0,Fast Food,(0232) 421 75 48,"1479 Sok No:3/C, 35220 İzmir",207
+Münire,38.437429,27.144368,9.2,1.0,Café,0535 259 68 46,"1484 Sok No:4, Alsancak (Kıbrıs Şehitleri Cad. Garanti Bankası Sokağı), 35220 İzmir",283
+Haşmetli Meyhane,38.441972,27.143463,8.7,,Meyhane,(0232) 339 41 41,"Ataturk Cad Kordon, No:376\U002Fa (Atatürk Caddesi), İzmir",17
+Big Baker,38.441532,27.144033,8.7,3.0,American,,Konak,98
+Bet10 Coffee&Bistro,38.441469,27.14302,8.4,1.0,Dining and Drinking,,"Atatürk Cad 1 Kordon No:370/B Alsancak (Kordon), İzmir",89
+Tek Tek Meyhanesi,38.441754,27.143178,7.5,,Meyhane,,"Atatürk Cad No: 372 Kordon, 35220 İzmir",61
+Fayton Bistro,38.441128,27.142812,8.1,2.0,Café,(0232) 464 33 34,"Alsancak Kordon 366/2A, Alsancak (Kültür cad), 35220 Konak",128
+"Meşhur Tavacı Recep Usta, Alsancak",38.440665,27.142681,8.8,3.0,Pide,(0232) 463 87 97,"Atatürk Cad, No: 364, Alsancak, Konak",198
+Cızz Bızz Balık Evi,38.440044,27.14408,8.6,3.0,Seafood,(0232) 465 00 78,"Kibris Sehitleri Cad No: 171/B Alsancak, İzmir",237
+Giritli Kâmuran,38.439804,27.142292,8.9,2.0,Café,(0232) 369 20 01,"Atatürk Cad No: 354/A Konak (alsancak), 35100 İzmir",275
+Yalı Çapkını (Yalıçapkını),38.440083,27.143466,7.7,,Meyhane,0545 828 94 11,"1478 Sok No:5/ A, İzmir",221
+Pirpirim Ocakbaşı Restaurant,38.440569,27.146027,8.6,1.0,BBQ,(0232) 463 11 24,"1473 Sok, No: 5 / A, Alsancak, Konak",292
+O'Lahmacun,38.439686,27.146916,8.8,2.0,Turkish,(0232) 421 11 99,"1471 Sok No:34, Konak",101
+Alsancak Dostlar Fırını - Boyozcu Hakan,38.44096,27.146372,8.9,1.0,Bakery,(0232) 421 91 02,"1475 Sok No: 1/A Alsancak, 35220 İzmir",152
+Pirpirim Ocakbaşı Restaurant,38.440569,27.146027,8.6,1.0,BBQ,(0232) 463 11 24,"1473 Sok, No: 5 / A, Alsancak, Konak",177
+Sevince Lokantası Ve Meyhanesi,38.439659,27.144574,9.2,,Meyhane,(0232) 421 35 70,"1471 Sok No:20/A, Konak",274
+Zeynel Ergin Gevrek Fırını,38.438318,27.145245,9.5,1.0,Bakery,(0232) 403 40 04,"1466 Sok No: 2, 35220 Konak",287
+Alsancak Kebapçısı,38.439659,27.144574,7.8,2.0,Turkish,,"1456 Sok, İzmir",270
+Cızz Bızz Balık Evi,38.440044,27.14408,8.6,3.0,Seafood,(0232) 465 00 78,"Kibris Sehitleri Cad No: 171/B Alsancak, İzmir",340
+Alsancak Dostlar Fırını - Boyoz,38.439055,27.143856,9.3,1.0,Bakery,(0232) 421 92 02,"Kıbrıs Şehitleri Cad No: 120 Alsancak, 35210 İzmir",363
+Kulüp Ali Restoran,38.439095,27.145435,8.0,3.0,Seafood,(0232) 421 40 48,"1469 Sok, No: 35, Alsancak (Kıbrısşehitleri Cd), Konak",338
+Big Baker,38.441532,27.144033,8.7,3.0,American,,Konak,375
+Analytichef Pastry & Coffee,38.44735,27.174069,8.4,2.0,Café,(0232) 502 75 80,"Ege Perla 2 Kat (Ozan Abay caddesi), 35170 İzmir",375
+Konak Orduevi,38.442823,27.171122,,2.0,Café,,,264
+Meles Deltası Piknik Alanı,38.448618,27.170565,6.4,,Food Court,,İzmir,382
+Çınarlı Fırını,38.439997,27.172503,7.9,1.0,Bakery,,"Anadolu Cad No:5, İzmir",587
+Cafe Del VRP,38.450551,27.170788,7.4,2.0,Indian,,,604
+Garden & Grill By Hilton,38.450282,27.171293,7.0,2.0,BBQ,,,553
+Zeytin Restaurant,38.447912,27.17844,8.4,,Turkish Home Cooking,,,734
+Panino Pizza,38.448019,27.173467,,2.0,Pizza,,İzmir,409
+Kürkçü Dükkanı,38.439105,27.172554,7.1,,Meyhane,,"1574Sokak No/5 Çınarlı Konak, İzmir",693
+Alaçatı Kafası,38.448473,27.179066,7.6,,Meyhane,,"Mistral, İzmir",810
+Varyant Kokoreç,38.471241,27.208523,7.9,,Kokoreç Restaurant,,"Atatürk Mah (İstiklal Caddesi), 35000 Bornova",419
+Bornovalılar Kasabı,38.464483,27.209256,8.5,4.0,Steakhouse,,555 Sok,485
+Gandi'Nin Yeri,38.465187,27.208394,8.7,2.0,Bar,(0232) 374 40 29,"Yüzbaşı İbrahim Hakkı Cad No:127/A, İzmir",521
+Meyhane,38.46525,27.207428,8.2,2.0,Meyhane,(0232) 373 98 72,"Yüzbaşı İbrahim Hakkı Cad No:123/B, İzmir",501
+Biz Bize,38.464819,27.207697,8.0,,Restaurant,0554 980 74 01,"Aşık Veysel Rekreasyon Alanı Yanı (Gediz Caddesi), Bornova",514
+Bade Fırın Cafe,38.464053,27.208597,8.2,2.0,Café,,"Gediz Cad No:36 Bornova (Gediz Caddesi), İzmir",565
+Samsun Pide Evi,38.46334,27.213255,8.5,,Pide,(0232) 374 44 00,"Mustafa Kemal Cad, 159 Sok, No: 33 / A, Kazımdirik (Mustafa Kemal cad), Bornova",585
+Baba Meyhane,38.464053,27.208597,8.0,,Meyhane,0532 207 17 33,Bornova,556
+Domino's Pizza,38.4718,27.20923,6.8,2.0,Pizza,(0232) 346 08 08,"513 Sok No: 78/A, 35030 Bornova",426
+Bahrimu Bodrum Balıkçısı,38.465619,27.206271,7.8,1.0,Seafood,(0232) 339 71 00,"Yüzbaşı İbrahim Hakkı Cad No:155/C (Yüzbaşı İbrahim Hakkı caddesi no 193/A), 35100 Bornova",568
+Bayraklı İskele Cafe,38.463939,27.161916,7.6,2.0,Café,,"Altınyol Caddesi, İzmir",81
+Cafe Enfes,38.462916,27.165664,7.9,2.0,Café,,Bayraklı,254
+Sanal Kumda Kahve & Waffle,38.463541,27.166031,7.9,2.0,Café,,"1915 Sok No:6/A (Sevgi Yolu), İzmir",273
+Mevlana Pide & Döner,38.464027,27.165811,8.1,2.0,Pide,(0232) 371 94 20,"Ord. Prof. Ekrem Akurgal Cad No:49/A Bayrakli (Bayraklı Sevgi Yolu), 35530 İzmir",286
+Meyhane Nevizade,38.462715,27.164188,6.9,2.0,Meyhane,0505 470 62 04,"1606/1 Sok No:8, Bayraklı",176
+Kula Pide Restaurant,38.462697,27.166306,8.1,,Pide,0532 494 68 25,Bayraklı,315
+Köfteci İsmet Usta,38.463133,27.166876,7.9,,Kofte,(0232) 371 96 69,"1916 Sok (Bayrakli sevgi yolu), 35530 Bayraklı",301
+Bizim Döner Murat Usta,38.464429,27.165981,7.8,2.0,Turkish,,Bayraklı,315
+Mert'in Yeri & İsmail Usta,38.463496,27.166733,7.9,4.0,Steakhouse,(0232) 345 89 99,"1916 Sok No:4A Bayraklı (Sevgi Yolu Bayraklı), İzmir",361
+Nihat'ın Yeri,38.464258,27.161285,,1.0,Sandwich Spot,,,146
+Havuz Cafe Restoran-Bayraklı A.Ş.,38.466638,27.159121,7.1,2.0,Café,,"Altınyol Cad No:75/A Fuat Edip Baksı Mah Bayraklı, Bayraklı",31
+Cafe Cansu,38.467867,27.160206,7.5,2.0,Café,(0232) 341 43 44,"Zeki Yavaş Cad No: 78, Bayraklı",157
+Bayraklı Cafe,38.466354,27.159864,,2.0,Café,,İzmir,96
+Enişte Börek Evi,38.467448,27.160713,6.3,2.0,Breakfast,(0232) 371 22 23,"1644 Sok (Anadolu Caddesi), İzmir",175
+Bayraklı İskele Cafe,38.463939,27.161916,7.6,2.0,Café,,"Altınyol Caddesi, İzmir",409
+Mandarin,38.467054,27.153591,7.8,,Restaurant,,"Turan Mah, İzmir",462
+Seferoğulları Unlu Mamulleri,38.467357,27.165413,7.6,1.0,Bakery,,Bayraklı,589
+Yıl Teras Cafe,38.471745,27.154912,8.2,2.0,Café,,"75, İzmir",663
+Nihat'ın Yeri,38.464258,27.161285,,1.0,Sandwich Spot,,,343
+Deniz Kenarı Murat Mangal Evi,38.463605,27.157648,,2.0,BBQ,,,355
+Mandarin,38.467054,27.153591,7.8,,Restaurant,,"Turan Mah, İzmir",349
+Ekmek Teknesi,38.467155,27.148262,,3.0,Seafood,,"Turan, Bayraklı, İzmir",113
+Sandal Marina,38.464966,27.146514,7.1,3.0,Seafood,(0232) 366 88 86,"Bayraklı, Turan, İzmir",356
+Köfteci Esat,38.464928,27.149242,,,Kebab,,"Pink Club Karşısı (turan), İzmir",246
+Yıl Teras Cafe,38.471745,27.154912,8.2,2.0,Café,,"75, İzmir",688
+Liamme,38.465664,27.14574,,2.0,Breakfast,,,368
+Rumeli Meyhanesi,38.467329,27.154063,,2.0,Turkish,,,390
+Kafe Kahverengi,38.463338,27.148066,,2.0,Café,,,441
+Havuz Cafe Restoran-Bayraklı A.Ş.,38.466638,27.159121,7.1,2.0,Café,,"Altınyol Cad No:75/A Fuat Edip Baksı Mah Bayraklı, Bayraklı",832
+Cafe Cansu,38.467867,27.160206,7.5,2.0,Café,(0232) 341 43 44,"Zeki Yavaş Cad No: 78, Bayraklı",930
+Mekanique,38.456052,27.120657,8.2,,Dining and Drinking,0532 057 84 72,"Cemal Gürsel Cad No:196, Karşıyaka",77
+Tarihi Konak Balıkçısı,38.454727,27.119589,8.2,,Dining and Drinking,,,88
+Çorbacı Cenko,38.455443,27.1191,8.4,1.0,Soup Spot,(0232) 324 10 02,"1723 Sok No: 5 / A Mah Kemalpaşa Camii Sok (Karşıyaka), İzmir",121
+Kardeşler Büfe,38.454818,27.118733,8.3,1.0,Sandwich Spot,(0232) 381 82 83,"Cemal Gürsel Cad No:234/B, Karşıyaka",132
+Evreka Cafe,38.455617,27.118233,9.3,2.0,Café,,"1722 Sok No:7, 35000 Karşıyaka",176
+Tilla Restaurant,38.456846,27.119317,8.2,2.0,Turkish,(0232) 364 47 01,"1690 Sok No:22/A, Karşıyaka",165
+Karşıyaka Kokoreç,38.456126,27.118851,8.0,,Kokoreç Restaurant,(0232) 368 78 29,İzmir,158
+Köfteci Erol,38.456036,27.118139,8.9,2.0,Turkish,(0232) 368 56 22,"1721 Sok No:4 Melek İşhanı Ve Pasajı P05, Karşıyaka",212
+Yağmur Cafe,38.455672,27.118282,8.2,2.0,Café,,İzmir,185
+Karşıyaka Meyhane,38.454399,27.1179,8.5,,Meyhane,,,223
+Kent Restaurant,38.448912,27.112318,8.1,2.0,Seafood,(0232) 369 30 74,"Cemal Gürsel Cad No:53/A, 35510 Karşıyaka",172
+Yelken Restaurant,38.450705,27.108244,8.5,3.0,Seafood,(0232) 368 48 48,"Cemal Gürsel Cad No:416/A, Karşıyaka",243
+Pitas Boşnak Börekçisi,38.454437,27.111722,8.5,2.0,Café,,"Fazıl Bey Cad, İzmir",573
+Aytekin Usta,38.454655,27.110153,8.8,2.0,Turkish,(0232) 364 25 99,"Aksoy Cad Karşıyaka, 35580 İzmir",591
+Adı Tadı Kahvaltı & Cafe,38.453057,27.105591,8.3,2.0,Breakfast,,"Girne Bul 24/A Karşıyaka (Girne Bulvarı), İzmir",599
+Gordios Cafe & Ev Yemekleri,38.453448,27.105936,8.4,,Turkish Home Cooking,(0232) 381 40 50,"Girne Cad 27/A, İzmir",621
+Şehnaz Özbek Mantısı,38.454571,27.106834,9.3,,Manti,0532 713 91 04,"Girne BLV 36-6A (Girne caddesi no:36-6A Karşıyaka), Karşıyaka",666
+Balıkhanee,38.455236,27.107513,8.3,3.0,Seafood,(0232) 369 99 96,"Fazıl Bey Cad No:95/1 (Fazıl Bey Caddesi), 35580 Karşıyaka",677
+Aslı Pide Pizza Ve Lahmacun Salonu,38.455236,27.10844,8.0,2.0,Turkish,(0232) 381 01 01,"1738 Sok No:87/1B Aksoy Karşıyaka (Girne Caddesi), 35530 İzmir",651
+Aksoy Pide,38.455018,27.107228,8.4,,Pide,,"Aksoy Cad (Girne Blv.), İzmir",698
+Adı Tadı Kahvaltı & Cafe,38.453057,27.105591,8.3,2.0,Breakfast,,"Girne Bul 24/A Karşıyaka (Girne Bulvarı), İzmir",244
+Gordios Cafe & Ev Yemekleri,38.453448,27.105936,8.4,,Turkish Home Cooking,(0232) 381 40 50,"Girne Cad 27/A, İzmir",302
+İkram Evi Karşıyaka İzmir,38.454509,27.104091,9.3,,Turkish Home Cooking,(0232) 368 50 47,Karşıyaka,354
+Yelken Restaurant,38.450705,27.108244,8.5,3.0,Seafood,(0232) 368 48 48,"Cemal Gürsel Cad No:416/A, Karşıyaka",360
+Cafe La Vie,38.453531,27.10091,8.8,2.0,Café,(0232) 364 35 06,"Cemal Gürsel Cad, No: 407 / A, Denizbostanlısı, 35000 Karşıyaka",403
+Şehnaz Özbek Mantısı,38.454571,27.106834,9.3,,Manti,0532 713 91 04,"Girne BLV 36-6A (Girne caddesi no:36-6A Karşıyaka), Karşıyaka",448
+Peri Art Cafe,38.45425,27.10059,8.7,2.0,Café,,Karşıyaka,458
+Thechef4U,38.455331,27.106021,8.6,,Food Court,0530 733 15 95,"Nebil Susup Sok No:112/A, İzmir",480
+Ler Cafe,38.454542,27.100782,8.4,1.0,Café,,2008 Sok 1A Bostanlı (Bostanlı),484
+Aksoy Pide,38.455018,27.107228,8.4,,Pide,,"Aksoy Cad (Girne Blv.), İzmir",515
+Cafe Park,38.455285,27.098378,8.1,2.0,Café,(0232) 362 72 29,"Bostanli, İzmir",159
+Muhtelif Meyhane,38.456033,27.094959,8.8,,Meyhane,0530 861 98 83,"Suat Gürbüzer Sok No:9/A, 35590 Karşıyaka",230
+Gets Refined Patisserie,38.456943,27.095484,8.3,1.0,Bakery,,35590 İzmir,279
+Tuzu Biberi Kahvaltı Ve Yemek Evi,38.456256,27.094229,8.2,2.0,Turkish,(0232) 330 08 88,"1807 / 1 Sok, No: 16 / Cad, Denizbostanlısı (Hasan Ali Yücel Bulvari), 35590 Karşıyaka",283
+Selanik Meyhanesi,38.457335,27.097683,8.5,,Meyhane,0544 305 40 70,"Cemal Gürsel Cad No:77/1 A (Bostanlı Camii), 35290 İzmir",305
+Kokoreççi Baki Usta,38.457469,27.097431,8.8,2.0,Kokoreç Restaurant,(0232) 362 19 82,"Cemal Gürsel Cad No:500/B Bostanli Karsiyaka Izmir, İzmir",334
+Gourmet,38.456898,27.099458,8.8,1.0,Bakery,(0232) 362 68 78,"1794 Sok, 35540 İzmir",337
+Peri Art Cafe,38.45425,27.10059,8.7,2.0,Café,,Karşıyaka,337
+Ler Cafe,38.454542,27.100782,8.4,1.0,Café,,2008 Sok 1A Bostanlı (Bostanlı),340
+Cafe La Vie,38.453531,27.10091,8.8,2.0,Café,(0232) 364 35 06,"Cemal Gürsel Cad, No: 407 / A, Denizbostanlısı, 35000 Karşıyaka",359
+Köfteci Yalçın Baba,38.461835,27.086263,8.5,1.0,Food Truck,,"Bostanlı Cep, İzmir",132
+Tuzu Biberi Kahvaltı Ve Yemek Evi,38.456256,27.094229,8.2,2.0,Turkish,(0232) 330 08 88,"1807 / 1 Sok, No: 16 / Cad, Denizbostanlısı (Hasan Ali Yücel Bulvari), 35590 Karşıyaka",122
+Muhtelif Meyhane,38.456033,27.094959,8.8,,Meyhane,0530 861 98 83,"Suat Gürbüzer Sok No:9/A, 35590 Karşıyaka",188
+Gets Refined Patisserie,38.456943,27.095484,8.3,1.0,Bakery,,35590 İzmir,252
+RCS Cafe,38.458792,27.094241,8.2,2.0,Café,(0232) 330 30 43,"Cengiz Topel Cad, No: 4, A, 35540 Karşıyaka",325
+The Huch,38.459183,27.092434,8.5,2.0,Café,,"Cengiz Topel Cad No:21 A (cengiz topel), 35000 İzmir",346
+Karaf Meyhane,38.457893,27.096322,8.9,,Meyhane,,"Cemal Gürsel Cad No:97/B, Karşıyaka",395
+Dodi Çiğ Börek,38.458256,27.096178,8.2,,Borek,(0232) 330 75 57,"Şehitler Bul No: 9/E, Karşıyaka Merkez, 35160 İzmir",406
+Karşıyaka Meze Evi Ev Yemekleri,38.458715,27.096397,9.1,2.0,Restaurant,(0232) 336 90 00,İzmir,449
+Bostanli Uskup Restoran,38.458094,27.09687,8.3,3.0,Seafood,0532 320 05 74,"Cemal Gursel Cad No: 516/A Karsiyaka, Karşıyaka",421
+Yasemin Cafe,38.462527,27.084649,8.2,1.0,Café,(0232) 330 90 80,"Cemal Gürsel Cad, 35530 Karşıyaka",29
+Yasemin Kafe,38.462477,27.084511,,2.0,Café,,İzmir,50
+Çukutala Café,38.461646,27.089248,8.4,1.0,Bakery,(0232) 330 44 11,"Cengiz Topel Cad No: 46/1-d (Cengiz Topel), Karşıyaka",385
+Pizza Rucola,38.464193,27.090012,8.6,2.0,Pizza,0850 279 7936,"Bestekar Sadi Hoşses Sok No:42/A, Karşıyaka",482
+Shebo's Sandwich & Burger,38.464193,27.090012,8.3,2.0,Burgers,(0232) 336 00 66,"Bestekar Sadi Hoşses Sok No:42B, 35550 Karşıyaka",477
+Yuka Brasserie,38.461422,27.089051,7.1,,Brasserie,,"Cengiz Topel Cad No46/B, İzmir",375
+Boğaziçi Restaurant Bostanlı,38.460367,27.090809,9.0,3.0,Turkish,(0232) 330 00 13,"Cengiz Topel Cad No: 38 / B Bostanlı (Bostanlı), 35540 Karşıyaka",543
+Offal Food,38.46478,27.090993,8.8,,Dining and Drinking,(0232) 300 03 60,"Cahar Dudayev Bul No:157/C Karşıyaka, 35590 İzmir",594
+Kemal Usta Et & Köfte,38.466098,27.089745,8.4,4.0,Steakhouse,(0232) 336 23 24,"Caher Dudayev Bul No: 139/B Atakent, Bostanli, 35550 Karşıyaka",584
+Hayyam Meyhanesi,38.467417,27.087215,8.3,,Meyhane,(0232) 486 12 86,"Caher Dudayev BLV. No:106/A, Karşıyaka",606
+Yasemin Cafe,38.462527,27.084649,8.2,1.0,Café,(0232) 330 90 80,"Cemal Gürsel Cad, 35530 Karşıyaka",424
+Denizkent Cafe,38.467592,27.077341,7.9,2.0,Café,,"Sahil Yol, Karşıyaka",440
+Deniz Kent Restaurant,38.467463,27.076579,7.9,3.0,Seafood,(0232) 324 10 20,"2043 Sok, No: 9, Denizbostanlısı, 35510 Karşıyaka",485
+Hayyam Meyhanesi,38.467417,27.087215,8.3,,Meyhane,(0232) 486 12 86,"Caher Dudayev BLV. No:106/A, Karşıyaka",527
+Alsancak Dostlar Fırını,38.469271,27.087166,9.0,1.0,Bakery,(0232) 330 92 02,"Caher Dudayev BLV. No: 107/B Atakent, Karşıyaka",635
+Kemal Usta Et & Köfte,38.466098,27.089745,8.4,4.0,Steakhouse,(0232) 336 23 24,"Caher Dudayev Bul No: 139/B Atakent, Bostanli, 35550 Karşıyaka",691
+Pizza Rucola,38.464193,27.090012,8.6,2.0,Pizza,0850 279 7936,"Bestekar Sadi Hoşses Sok No:42/A, Karşıyaka",738
+Shebo's Sandwich & Burger,38.464193,27.090012,8.3,2.0,Burgers,(0232) 336 00 66,"Bestekar Sadi Hoşses Sok No:42B, 35550 Karşıyaka",729
+Yasemin Kafe,38.462477,27.084511,,2.0,Café,,İzmir,403
+Çukutala Café,38.461646,27.089248,8.4,1.0,Bakery,(0232) 330 44 11,"Cengiz Topel Cad No: 46/1-d (Cengiz Topel), Karşıyaka",782
+Denizkent Cafe,38.467592,27.077341,7.9,2.0,Café,,"Sahil Yol, Karşıyaka",169
+Deniz Kent Restaurant,38.467463,27.076579,7.9,3.0,Seafood,(0232) 324 10 20,"2043 Sok, No: 9, Denizbostanlısı, 35510 Karşıyaka",222
+Harbi-ye Dürüm Kebap,38.471087,27.074305,7.9,,Kebab,,"Ege Park Mavişehir Avm (2040 Sokak), İzmir",603
+Gold Yengeç Restaurant,38.472546,27.075499,7.9,3.0,Seafood,(0232) 502 50 20,"Caher Dudayev BLV. No:40, 35590 Karşıyaka",637
+Alsancak Dostlar Fırını,38.469271,27.087166,9.0,1.0,Bakery,(0232) 330 92 02,"Caher Dudayev BLV. No: 107/B Atakent, Karşıyaka",712
+Dükkan Sandwich Kumru,38.471959,27.074518,8.2,2.0,Fast Food,,"2040/4 Sok No:8, İzmir",671
+Hayyam Meyhanesi,38.467417,27.087215,8.3,,Meyhane,(0232) 486 12 86,"Caher Dudayev BLV. No:106/A, Karşıyaka",685
+Engözde Et Döner,38.471886,27.084608,8.0,,Restaurant,,35550 İzmir,670
+Nappo,38.472702,27.074895,7.8,2.0,Pizza,0545 436 27 76,"Aziz Nesin Bul Cad Blok Giris Kat, Carsi Alani No:24 D:Z04, 35590 İzmir",681
+"Girit Adasi Balikevi, Mavisehir",38.471633,27.085263,7.7,3.0,Fish and Chips Shop,(0232) 337 34 34,"Cahar Dudayevbulvari No79/A Mavişehir-İzmir, 35530 İzmir",677
+Kuğulu Cafe,38.488922,26.961182,7.1,2.0,Café,,"İzmir Doğal Yaşam Parkı, Çiğli",228
+Green Big Tween,38.489069,26.961272,,2.0,Breakfast,,,234
+Başkanın Yeri Sasalı,38.491474,26.951538,8.6,3.0,Seafood,0533 567 13 19,"Ahmet Piriştina Cad, İzmir",756
+Şen Et Dünyası,38.494602,26.952375,8.9,4.0,Steakhouse,,İzmir,923
+Flamingo Cafe,38.494356,26.952529,7.9,2.0,Café,,Çiğli,911
+Derin Unlu Mamulleri,38.494086,26.951179,8.1,1.0,Bakery,,"Sasalı Mah, Çiğli",966
+Develi Cafe,38.49056,26.967073,6.5,2.0,Café,,"İzmir Doğal Yaşam Parkı, Çiğli",754
+Tuzla Balık Restaurant,38.491138,26.948307,7.9,2.0,Seafood,(0232) 327 42 99,"Ahmet Piriştina Cad No52 B., 35640 Çiğli",986
+Metro Simit Evi,38.49411,26.961826,,1.0,Bagels,,,727
+Șen Köfteci,38.494295,26.952568,,,Dining and Drinking,,"1 Sok (Sasalı Çiğli), İzmir",906
+Pizza Pizza,38.461393,27.127595,7.8,2.0,Pizza,(0232) 366 91 81,"Yalı Cad No: 2/A, Alaybey (Karşıyaka), Karşıyaka",50
+Deniz Çay Evi,38.461203,27.126872,7.8,2.0,Café,(0232) 382 46 26,"Yalı Cad No: 4, Karşıyaka Merkez, Karşıyaka",57
+"Pizza Pizza, Alaybey",38.461393,27.127595,7.1,2.0,Pizza,(0232) 444 45 00,"Cemal Gürsel Cad, Karşıyaka",41
+Elazığ Çiğ Köftecisi,38.460661,27.127163,7.3,2.0,Turkish,,,59
+Elazığlı Haliloğlu Çiğ Köftecisi,38.460667,27.126955,7.1,,Cigkofte,(0232) 365 53 23,35050 Karşıyaka,59
+Chicky,38.460549,27.126944,6.9,2.0,Fast Food,(0232) 366 81 81,"Yalı Cad No:16/A Karşıyaka, İzmir",79
+Sushitto Karşıyaka,38.460611,27.126905,6.6,3.0,Sushi,,Karşıyaka,85
+Durmuş Usta,38.462678,27.127802,7.4,1.0,Soup Spot,,"1675 Sok (Cemal Gürsel Caddesi), 35600 İzmir",178
+Yalı Kumrucu,38.46022,27.12656,7.0,2.0,Burgers,(0232) 372 72 42,"Şehit Asım Aksoy Cad No: 2/B (Alaybey), Karşıyaka",153
+Tersana Kafe,38.462175,27.127359,6.6,2.0,Café,,,117
+Gandi'Nin Yeri,38.465187,27.208394,8.7,2.0,Bar,(0232) 374 40 29,"Yüzbaşı İbrahim Hakkı Cad No:127/A, İzmir",69
+Meyhane,38.46525,27.207428,8.2,2.0,Meyhane,(0232) 373 98 72,"Yüzbaşı İbrahim Hakkı Cad No:123/B, İzmir",51
+Biz Bize,38.464819,27.207697,8.0,,Restaurant,0554 980 74 01,"Aşık Veysel Rekreasyon Alanı Yanı (Gediz Caddesi), Bornova",106
+Bahrimu Bodrum Balıkçısı,38.465619,27.206271,7.8,1.0,Seafood,(0232) 339 71 00,"Yüzbaşı İbrahim Hakkı Cad No:155/C (Yüzbaşı İbrahim Hakkı caddesi no 193/A), 35100 Bornova",127
+Bornovalılar Kasabı,38.464483,27.209256,8.5,4.0,Steakhouse,,555 Sok,182
+Baba Meyhane,38.464053,27.208597,8.0,,Meyhane,0532 207 17 33,Bornova,197
+Bade Fırın Cafe,38.464053,27.208597,8.2,2.0,Café,,"Gediz Cad No:36 Bornova (Gediz Caddesi), İzmir",215
+Artı Burgerhouse,38.461658,27.207315,8.6,2.0,Burgers,0533 945 01 35,"185 Sok No:21, 35100 Bornova",453
+Dürümcü Oğuz'un Yeri,38.461386,27.207645,8.7,,Kebab,0535 674 15 67,"185 Sok No:40-2, Bornova",486
+Gerdan Gurme,38.461693,27.204934,7.7,2.0,Fried Chicken,(0232) 342 32 42,"Mustafa Kemal Cad No:116/A Bornova Merkez, Bornova",416
+Emniyet Restaurant,38.422975,27.141533,8.2,,Meyhane,(0232) 441 43 69,"1367 Sok No:14, İzmir",213
+Bergama Börek Evi,38.424216,27.139662,8.3,1.0,Dining and Drinking,(0232) 482 02 06,"Hürriyet Bul 1362 Sok No: 24, Konak, İzmir (Fevzi Paşa Caddesi), İzmir",335
+Ciğerci Ali Baba,38.424573,27.139607,8.1,,Turkish Home Cooking,0532 644 50 96,Konak,337
+Hayyam Meyhanesi,38.420745,27.143181,8.8,2.0,Turkish,(0232) 483 43 56,İzmir,405
+Kelle Halil'in Yeri,38.42117,27.141146,8.3,4.0,Meyhane,,"1301 Sok No:49 Basmane, İzmir",392
+Küncü Fırın & Cafe,38.422668,27.138945,8.6,1.0,Bakery,,"Fevzipaşa Bul No:152/C, Konak",420
+Fatih Kebap Salonu,38.420371,27.140719,8.3,,Kebab,(0232) 483 05 50,"Anafartalar Cad No:699 Basmane, İzmir",413
+Remzi Usta Diyarbakır Lezzetleri,38.422668,27.138945,7.9,2.0,Turkish,(0232) 371 21 21,"Fevzi Paşa BLV. 1361 Sok No:115, 03500 İzmir",416
+Uğur Lokantası,38.423585,27.138456,8.2,3.0,Turkish Home Cooking,(0232) 483 32 34,"Gaziosman Paşa Bul, 1369 Sok, No: 11, Küçükyalı, Konak",449
+Tarihi Basmane Fırını,38.420706,27.143796,7.6,1.0,Bakery,(0232) 483 04 52,"Anafartalar Cad No:850 (Anafartalar Caddesi), İzmir",399
+P'an-ku Pancakes,38.430786,27.142122,9.0,2.0,Café,0543 506 94 41,"1382 Sok No:37 (Şair Eşref Bulvarı), 35220 İzmir",127
+Simarik Cafe,38.429189,27.141268,7.8,2.0,Turkish,,,98
+Paprica Pizza & Ristorante,38.431971,27.142055,8.8,3.0,Italian,0549 422 22 70,"Dr. Mustafa Enver Bey Cad No: 30/2, 35220 İzmir",252
+Mavi Köşe,38.427904,27.140134,8.5,2.0,Sandwich Spot,(0232) 446 90 37,"Şht. Nevres Bul Süsler Apt. No: 6/A Montrö Konak, İzmir",268
+Pizza Locale,38.432524,27.142635,9.1,2.0,Pizza,(0232) 463 45 60,"1390 Sok No:5/B Alsancak, 35220 Konak",310
+Rimo's Crêperie,38.428865,27.138943,8.5,1.0,Dining and Drinking,0533 361 99 19,"Sevket Ozcelik Sok No: 37/1B Alsancak (Kültür Mahallesi Alsancak), 35210 İzmir",313
+Favino Alsancak,38.432765,27.140715,9.0,,Theme Restaurant,(0232) 421 93 90,"Dr. Mustafa Enver Bey Cad No:11/A, 35220 İzmir",361
+Yuzde Yuz Restaurant & Cafe Alsancak,38.432435,27.140332,8.4,3.0,Restaurant,(0232) 422 55 35,"Dr. Mustafa Bey Cad Alsancak, Konak, Konak",352
+Murano’S,38.432156,27.139158,8.5,3.0,Italian,,İzmir,367
+Pier’S,38.43253,27.139767,8.7,,Restaurant,,"Dr. Mustafa Enver Bey Cad, İzmir",392
+Mavi Köşe,38.427904,27.140134,8.5,2.0,Sandwich Spot,(0232) 446 90 37,"Şht. Nevres Bul Süsler Apt. No: 6/A Montrö Konak, İzmir",146
+Simarik Cafe,38.429189,27.141268,7.8,2.0,Turkish,,,138
+Rimo's Crêperie,38.428865,27.138943,8.5,1.0,Dining and Drinking,0533 361 99 19,"Sevket Ozcelik Sok No: 37/1B Alsancak (Kültür Mahallesi Alsancak), 35210 İzmir",282
+P'an-ku Pancakes,38.430786,27.142122,9.0,2.0,Café,0543 506 94 41,"1382 Sok No:37 (Şair Eşref Bulvarı), 35220 İzmir",338
+Aklan Unlu Mamülleri,38.42849,27.138335,7.7,1.0,Bakery,,"1379 sokak, 35240 İzmir",291
+Balıkada,38.428485,27.136569,8.9,3.0,Seafood,(0232) 484 12 14,"Sehit Nevres Bul No: 2/G-h Swissotel Alti, İzmir",450
+Ciğerci Ali Baba,38.424573,27.139607,8.1,,Turkish Home Cooking,0532 644 50 96,Konak,414
+Paprica Pizza & Ristorante,38.431971,27.142055,8.8,3.0,Italian,0549 422 22 70,"Dr. Mustafa Enver Bey Cad No: 30/2, 35220 İzmir",461
+Bergama Börek Evi,38.424216,27.139662,8.3,1.0,Dining and Drinking,(0232) 482 02 06,"Hürriyet Bul 1362 Sok No: 24, Konak, İzmir (Fevzi Paşa Caddesi), İzmir",456
+Sushico,38.428485,27.136569,8.3,2.0,Sushi,(0232) 484 00 70,"Şehit Nevres Bul, No: 2 / F Alsancak, 35220 Konak",462
+Tavuk Dünyası,38.47311,27.074049,8.2,2.0,Fried Chicken,(0232) 502 17 92,"Caher Dudayev Bul Mavi Bahçe Alışveriş Merkezi, 35590 Karşıyaka",214
+Midpoint,38.473585,27.074932,7.5,3.0,Dining and Drinking,(0232) 502 18 05,"Caher Dudayev Bul Mavi Bahçe Alışveriş Merkezi, Denizbostanlısı, 35590 Karşıyaka",167
+Padre Brasserie By Ferdi,38.477138,27.074727,8.3,2.0,Pizza,,"6522 Sok No:3, Karşıyaka",227
+Ferdi Baba,38.477071,27.074854,8.0,3.0,Seafood,0535 660 07 88,"6522 Sok No:3, Karşıyaka",218
+Kent Spor&Cafe,38.474021,27.076429,7.7,2.0,Café,,İzmir,195
+Baba Pizza Hilltown,38.476944,27.074974,7.7,2.0,Pizza,,"6522 Sok No:3 (Caher Dudayev bulvarı), 35560 İzmir",218
+Sushico,38.476903,27.074706,7.7,3.0,Sushi,444 7 874,"Yalı, 6522 Sok No:3, Karşıyaka",220
+Breeze Brasserie,38.477378,27.074661,8.5,,Restaurant,0538 041 25 34,"Caner Dudayev Bul, Mavibahçe Avm, Karşıyaka",278
+Fabrice,38.477138,27.074727,7.8,,Restaurant,0533 158 03 70,"6522 Sok No:3, Karşıyaka",238
+The Hunger,38.477545,27.074809,8.3,,Restaurant,(0232) 324 33 35,"6522 Sok No:3, Karşıyaka",272
+Kaffa Keyf,38.418746,27.125476,7.2,2.0,Café,(0232) 445 50 45,"Konak Vapur İskelesi Üstü, Konak",23
+Osmanlı,38.418724,27.125827,7.5,2.0,Café,,"Mustafa Kemal Sahil Bul, İzmir",77
+Rıhtım Cafe,38.418718,27.125915,6.4,2.0,Café,,"Konak Vapur İskelesi Yanı, Konak",84
+Alsancak Unlu Mamuller,38.41876,27.126046,6.0,1.0,Bakery,,"Konak Vapur İskelesi, Konak",82
+Çaykovski,38.417869,27.129058,8.4,1.0,Café,(0232) 483 01 34,"31. Sokak, Konak",369
+Konak Subay Orduevi Kahve'Nin Âlâsı,38.415298,27.124938,7.4,2.0,Café,,Konak,367
+Cevatın Yeri Sahne Cafe,38.414801,27.12348,7.8,2.0,Café,,İzmir,443
+Bayram Steak House,38.41689,27.124472,,4.0,Steakhouse,,,209
+Cimbomlu Meşhur Söğüşçü,38.419221,27.131919,8.7,1.0,Fast Food,(0232) 445 64 82,"855 Sok, No: 13 / A, 35250 Konak",571
+L’Aura Kitchen & Bar,38.423406,27.127362,8.2,3.0,Italian,0530 391 35 35,"Ataturk Cad No:19 Konak Pier Avm (Atatürk Caddesi No:19/S), 35210 İzmir",564
+Mr. Rakun,38.396463,27.071093,8.3,2.0,Café,,"İnönü Cad No:885/A, 35290 İzmir",49
+Gönül Çorba,38.396568,27.069426,7.8,1.0,Soup Spot,(0232) 277 55 74,"Mehmetçik BLV, 35290 İzmir",95
+Dürümcü İlker Usta,38.396037,27.068495,8.6,,Kebab,(0232) 277 35 82,"65/11 Sok No: 2, İzmir",211
+Dönerci Vedat,38.398181,27.068774,8.7,,Doner,,"İstinye Park (Şehit  Binbaşı Ali Resmi Tufan Sok. No:3), Balçova",226
+Şeref Usta Balık & Meze Evi,38.395463,27.072899,8.4,3.0,Seafood,,,232
+Caffe Nero,38.39874,27.06867,8.2,2.0,Café,,"Istinye Park (Şehit  Binbaşı Ali Resmi Tufan Sok. No:3), Balçova",279
+Fabrice,38.398834,27.068471,7.6,2.0,Café,,"İstinye Park (Şehit Binbaşı Ali Resmi Tufan Sok. No:3), Balçova",298
+Ülver Teyze Rumeli Börekleri,38.395705,27.074686,8.6,,Restaurant,(0232) 520 02 92,"Inonu Cad No: 644, İzmir",379
+Eatery,38.39952,27.068038,8.5,,Restaurant,,"İstinye Park, Balçova",381
+Masa Restaurant,38.399388,27.067648,8.5,2.0,Café,(0232) 683 04 48,"İstinye Park (Şehit Binbaşı Ali Resmi Tufan Sok. No:3), 35330 Balçova",391
+Kofteci Sedat Usta,38.481656,27.089098,7.6,2.0,Turkish,,,477
+Cafe Siesta,38.48561,27.086281,7.8,2.0,Café,,İzmir,524
+Rún Lounge,38.476365,27.086934,8.4,2.0,Café,,"Ahmet Kemal Baysak BLV. No:44/A, Karşıyaka",639
+Naturalinn Şarküteri & Restoran,38.476413,27.085998,7.6,,Restaurant,0539 596 72 34,"Ahmet Kemal Baysak Bul No:9/B, 35590 Karşıyaka",595
+Nora Fırın Cafe & Patisserie,38.47592,27.086293,8.0,1.0,Bakery,,"6500 Sok . No:40, 35550",655
+Sade Kahvaltı & Çikolata,38.475895,27.085036,8.0,2.0,Café,(0232) 935 15 01,"Ahmet Kemal Baysak BLV. No:14/C (Mavişehir), İzmir",664
+Zekeriya Usta Kokoreç,38.480802,27.075549,9.1,2.0,Turkish,,"Carrefour Arkası (Mavişehir), İzmir",735
+Kazım Bey Et Restaurant,38.486924,27.088996,9.3,,Restaurant,,"Soyak Siesta Meydan Avm, İzmir",750
+Ora,38.486364,27.088338,7.7,2.0,Turkish,,"City Terrasse (İnönü Mah. 6718 Sok. No:68/1), Karşıyaka",648
+Tuzla Balık Restaurant,38.486862,27.088869,7.9,3.0,Seafood,(0232) 502 17 37,"6718 Sok No:66 - 108 Soyak Meydan Avm (Soyak Siesta), 35550 Karşıyaka",735
+Beyaz Fırın,38.386428,27.179544,8.5,2.0,Bakery,(0232) 420 82 90,"Kıbrıs Sok No:61B (Erdem Cad.), 35380 Buca",179
+Öteyaka,38.385641,27.178016,8.7,4.0,Steakhouse,0505 319 58 69,"Erdem Cad No: 68/A Buca, İzmir",191
+V-Mix Cafe & Bar,38.385445,27.178306,8.2,2.0,Café,,"Erdem Cad No:53, 35160 Buca",171
+Feriştah Meyhane,38.385445,27.178306,7.9,,Meyhane,0539 566 72 75,"Erdem Cad No:53 (Menderes), 35000 Buca",171
+Soulmate Coffee & Bakery,38.384147,27.182906,8.2,2.0,Café,,"24 Sok, Deü İibf Kapısı Karşısı (Erdem Caddesi), 35290 Buca",263
+Cactus Coffee,38.38304,27.182672,8.6,2.0,Café,,Buca,290
+Buckın Coffee Co.,38.382709,27.181964,8.2,2.0,Café,,"Erdem Cad No:18 Buca Adatepe (Erdem Caddesi), Buca",285
+Göl Cafe,38.383498,27.170009,6.3,2.0,Café,(0232) 487 47 93,"Özmen Cad (Kıbrıs Cd.), Buca",111
+Coffee Shop,38.383593,27.183252,8.3,2.0,Café,,"8/4 Sok No:4/A Adatepe-Buca (Erdem Caddesi), İzmir",328
+Walter's Sandwich Lab,38.386489,27.182959,8.4,1.0,Sandwich Spot,(0232) 442 42 28,"3 Sok No:16/B (Adatepe Mah.), Buca",336
+Rüzgar Kokoreç,38.3815,27.178162,8.5,,Kokoreç Restaurant,(0232) 440 58 26,"63 Sok, Buca",74
+Kahve Esintisi,38.381361,27.176649,8.0,2.0,Café,0532 586 43 96,"Buca , Üçkuyular Meydanı, İzmir",98
+Chef Food,38.380876,27.175543,7.7,2.0,Fast Food,0553 137 48 48,"Ucyol Meydan (Ismail Sivri Bulvarı), İzmir",215
+Gazoz Ağacı,38.383815,27.1752,8.7,2.0,Café,,Buca,306
+V-Mix Cafe & Bar,38.385445,27.178306,8.2,2.0,Café,,"Erdem Cad No:53, 35160 Buca",388
+Buckın Coffee Co.,38.382709,27.181964,8.2,2.0,Café,,"Erdem Cad No:18 Buca Adatepe (Erdem Caddesi), Buca",390
+Buca Tostçusu,38.384547,27.1739,9.1,1.0,Fast Food,,"83 Sok No:41/B, Buca",429
+Öteyaka,38.385641,27.178016,8.7,4.0,Steakhouse,0505 319 58 69,"Erdem Cad No: 68/A Buca, İzmir",421
+Doy Doy Kokoreç,38.38286,27.173523,7.6,,Kokoreç Restaurant,,Buca,349
+Feriştah Meyhane,38.385445,27.178306,7.9,,Meyhane,0539 566 72 75,"Erdem Cad No:53 (Menderes), 35000 Buca",396
+Favino Alsancak,38.432765,27.140715,9.0,,Theme Restaurant,(0232) 421 93 90,"Dr. Mustafa Enver Bey Cad No:11/A, 35220 İzmir",67
+Yuzde Yuz Restaurant & Cafe Alsancak,38.432435,27.140332,8.4,3.0,Restaurant,(0232) 422 55 35,"Dr. Mustafa Bey Cad Alsancak, Konak, Konak",87
+Pier’S,38.43253,27.139767,8.7,,Restaurant,,"Dr. Mustafa Enver Bey Cad, İzmir",133
+Zeytinyağlı Restorant,38.434144,27.142211,8.6,2.0,Turkish Home Cooking,(0232) 655 65 55,"Talatpaşa Bul, İzmir",131
+Pizza Locale,38.432524,27.142635,9.1,2.0,Pizza,(0232) 463 45 60,"1390 Sok No:5/B Alsancak, 35220 Konak",156
+Paprica Pizza & Ristorante,38.431971,27.142055,8.8,3.0,Italian,0549 422 22 70,"Dr. Mustafa Enver Bey Cad No: 30/2, 35220 İzmir",150
+Murano’S,38.432156,27.139158,8.5,3.0,Italian,,İzmir,205
+P'an-ku Pancakes,38.430786,27.142122,9.0,2.0,Café,0543 506 94 41,"1382 Sok No:37 (Şair Eşref Bulvarı), 35220 İzmir",263
+Eski Usul Meyhane Alsancak,38.435307,27.141568,8.7,2.0,Meyhane,(0232) 421 44 09,"Irfan Boyuer Sok, Donerciler Sokagi, No:2/A Alsancak, Konak (1444), 35220 İzmir",255
+Bade,38.435329,27.141217,8.4,2.0,Seafood,(0232) 421 28 22,"Cumhuriyet Bul No:198/A ((Gündoğdu-Kalyon Pub karşısı)), 35220 İzmir",256
