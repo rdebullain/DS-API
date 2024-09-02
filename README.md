@@ -1,4 +1,4 @@
-# Final-Project-Statistical-Modelling-with-Python
+# Project 02: Statistical Modelling with Python
 
 ## Project/Goals
 The goal of this project is to analyze the relationship between the characteristics of Points of Interest (POIs) and the number of bikes available at bike stations using data from APIs like CityBikes, Foursquare, and Yelp. This project also aims to compare the data quality between Foursquare and Yelp and build a regression model to identify key predictors of bike availability.
